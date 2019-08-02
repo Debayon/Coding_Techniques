@@ -12,7 +12,7 @@ Learn:
 
 # Day 2: 2/8/2019
 4. https://leetcode.com/problems/contains-duplicate/ (sort and check adjacent elements (gives runtime error))
-5. 238. Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self/
+5. Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self/
 
 Learn:
 
