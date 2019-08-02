@@ -6,8 +6,14 @@ Collection of tips and tricks for coding interview and competitive coding proble
 2. https://leetcode.com/problems/two-sum/
 3. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-Learn: Basics of STL = https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb
+Learn: 
+
+1.Basics of STL = https://www.youtube.com/playlist?list=PL_dsdStdDXbq8BTjGdUEWgWYFWYP6pwYb
 
 # Day 2: 2/8/2019
 4. https://leetcode.com/problems/contains-duplicate/ (sort and check adjacent elements (gives runtime error))
 5. 
+
+Learn:
+
+1. How to Pass by reference(C++) : https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr233.htm
