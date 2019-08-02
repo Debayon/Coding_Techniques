@@ -7,5 +7,5 @@ Collection of tips and tricks for coding interview and competitive coding proble
 3. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 # Day 2: 2/8/2019
-4. https://leetcode.com/problems/contains-duplicate/
+4. https://leetcode.com/problems/contains-duplicate/ (sort and check adjacent elements (gives runtime error))
 5. 
