@@ -20,4 +20,9 @@ Learn:
 2. C++ STL: Set : https://www.geeksforgeeks.org/set-in-cpp-stl/
 
 # Day 3: 4/8/2019
-5.
+5.https://leetcode.com/problems/maximum-subarray/
+6.
+
+Learn:
+
+1. https://www.geeksforgeeks.org/int_max-int_min-cc-applications/
