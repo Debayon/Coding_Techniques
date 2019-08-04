@@ -18,3 +18,6 @@ Learn:
 
 1. How to Pass by reference(C++) : https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr233.htm
 2. C++ STL: Set : https://www.geeksforgeeks.org/set-in-cpp-stl/
+
+# Day 3: 4/8/2019
+5.
