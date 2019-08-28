@@ -36,3 +36,4 @@ Learn:
 
 # Day 5: 28/8/2019
 8. https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+9. https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/
