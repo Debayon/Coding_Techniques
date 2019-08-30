@@ -43,3 +43,6 @@ Learn:
 11. https://leetcode.com/problems/intersection-of-two-linked-lists/
 12. https://leetcode.com/problems/middle-of-the-linked-list/
 13. https://leetcode.com/problems/reverse-linked-list/submissions/
+
+# Day 7: 30/8/2019
+14. https://leetcode.com/problems/find-the-town-judge/ (Graph)
