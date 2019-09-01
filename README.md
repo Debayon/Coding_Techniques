@@ -46,3 +46,9 @@ Learn:
 
 # Day 7: 30/8/2019
 14. https://leetcode.com/problems/find-the-town-judge/ (Graph)
+
+# Day 8: 1/9/2019
+15. https://leetcode.com/problems/sort-array-by-parity-ii/submissions/
+
+Learn:
+ Java Multithreading.
