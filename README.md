@@ -55,3 +55,6 @@ Learn:
  
 # Day 9: 2/9/2019
 16. https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+
+# Day 10: 12/9/2019
+17. https://leetcode.com/problems/to-lower-case/submissions/
