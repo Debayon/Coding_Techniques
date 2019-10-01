@@ -58,3 +58,6 @@ Learn:
 
 # Day 10: 12/9/2019
 17. https://leetcode.com/problems/to-lower-case/submissions/
+
+# Day 11: 1/10/2019
+18. https://www.hackerrank.com/challenges/mini-max-sum/problem
