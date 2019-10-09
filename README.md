@@ -61,3 +61,6 @@ Learn:
 
 # Day 11: 1/10/2019
 18. https://www.hackerrank.com/challenges/mini-max-sum/problem
+
+# Day 12: 9/10/2019
+Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/segment_tree.html
