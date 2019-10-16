@@ -64,3 +64,6 @@ Learn:
 
 # Day 12: 9/10/2019
 Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/segment_tree.html
+
+# Day 13: 16/10/2019
+19. https://leetcode.com/problems/third-maximum-number/submissions/
