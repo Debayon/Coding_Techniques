@@ -68,5 +68,8 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 # Day 13: 16/10/2019
 19. https://leetcode.com/problems/third-maximum-number/submissions/
 
-# Day
-https://leetcode.com/problems/relative-sort-array/submissions/
+# Day 14: 17/10/2019
+20. https://leetcode.com/problems/relative-sort-array/submissions/
+
+# Day 15: 18/10/2019
+21. https://leetcode.com/problems/sum-of-even-numbers-after-queries/submissions/
