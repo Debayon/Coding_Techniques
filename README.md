@@ -73,3 +73,6 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 
 # Day 15: 18/10/2019
 21. https://leetcode.com/problems/sum-of-even-numbers-after-queries/submissions/
+
+# Day 16: 19/10/2019
+22. https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/
