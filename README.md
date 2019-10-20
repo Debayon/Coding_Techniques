@@ -76,3 +76,6 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 
 # Day 16: 19/10/2019
 22. https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/
+
+# Day 17: 20/10/2019
+23. https://leetcode.com/problems/min-cost-climbing-stairs/submissions/
