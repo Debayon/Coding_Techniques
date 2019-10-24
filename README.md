@@ -80,3 +80,7 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 # Day 17: 20/10/2019
 23. https://leetcode.com/problems/min-cost-climbing-stairs/submissions/
 24. https://leetcode.com/problems/defanging-an-ip-address/submissions/
+
+# Day 18: 24/10/2019
+25. https://leetcode.com/problems/sort-array-by-parity/
+26. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
