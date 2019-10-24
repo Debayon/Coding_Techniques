@@ -84,3 +84,4 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 # Day 18: 24/10/2019
 25. https://leetcode.com/problems/sort-array-by-parity/
 26. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+27. https://leetcode.com/problems/squares-of-a-sorted-array/
