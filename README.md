@@ -86,3 +86,6 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 26. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 27. https://leetcode.com/problems/squares-of-a-sorted-array/
 28. https://leetcode.com/problems/fibonacci-number/
+
+# Day 19: 25/10/2019
+Learnt and implemented: BFS and DFS.
