@@ -89,3 +89,6 @@ Learnt and Implemented Segment Tree: https://cp-algorithms.com/data_structures/s
 
 # Day 19: 25/10/2019
 Learnt and implemented: BFS and DFS.
+
+# Day 20: 29/10/2019
+29. https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
