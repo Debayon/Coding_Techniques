@@ -92,3 +92,6 @@ Learnt and implemented: BFS and DFS.
 
 # Day 20: 29/10/2019
 29. https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+
+# Day 21: 30/10/2019
+30. https://leetcode.com/problems/duplicate-zeros/
