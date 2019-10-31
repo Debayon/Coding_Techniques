@@ -96,3 +96,6 @@ Learnt and implemented: BFS and DFS.
 # Day 21: 30/10/2019
 30. https://leetcode.com/problems/duplicate-zeros/
 31. https://leetcode.com/problems/unique-morse-code-words/
+
+
+https://leetcode.com/problems/divisor-game/
