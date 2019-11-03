@@ -102,3 +102,6 @@ https://leetcode.com/problems/divisor-game/
 
 # Day 23: 3/10/2019
 33. https://leetcode.com/problems/is-subsequence/submissions/
+34. https://leetcode.com/problems/climbing-stairs/
+35. https://leetcode.com/problems/range-sum-query-immutable/
+36. 
