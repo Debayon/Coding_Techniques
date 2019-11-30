@@ -104,9 +104,9 @@ https://leetcode.com/problems/divisor-game/
 33. https://leetcode.com/problems/is-subsequence/submissions/
 34. https://leetcode.com/problems/climbing-stairs/
 35. https://leetcode.com/problems/range-sum-query-immutable/
-36. 
 
 # Day 24: 21/11/2019
 36. https://leetcode.com/problems/flipping-an-image/
 
 # Day 25: 30/11/2019
+37. https://leetcode.com/problems/maximum-average-subarray-i/
