@@ -110,3 +110,6 @@ https://leetcode.com/problems/divisor-game/
 
 # Day 25: 30/11/2019
 37. https://leetcode.com/problems/maximum-average-subarray-i/
+
+# Day 26: 20/12/2019
+38. https://leetcode.com/problems/distribute-candies-to-people/
