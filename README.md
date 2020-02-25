@@ -115,3 +115,6 @@ https://leetcode.com/problems/divisor-game/
 38. https://leetcode.com/problems/distribute-candies-to-people/
 39. https://leetcode.com/problems/complement-of-base-10-integer/
 40. https://leetcode.com/problems/largest-perimeter-triangle/
+
+# Day 27: 25/2/2020
+41. https://leetcode.com/problems/max-consecutive-ones/
