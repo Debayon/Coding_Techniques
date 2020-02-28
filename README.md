@@ -122,5 +122,7 @@ https://leetcode.com/problems/divisor-game/
 # Day 28: 28/2/2020
 42. https://leetcode.com/problems/valid-mountain-array/
 43. https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+44. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 # Note: When we copy contents of one variable to other
+
