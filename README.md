@@ -124,5 +124,6 @@ https://leetcode.com/problems/divisor-game/
 43. https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 44. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
-# Note: When we copy contents of one variable to other
+# Note:
+When we copy contents of one variable to other simply by assigning in python, we create an Alias, not a separate copy.
 
