@@ -123,6 +123,7 @@ https://leetcode.com/problems/divisor-game/
 42. https://leetcode.com/problems/valid-mountain-array/
 43. https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 44. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+45. https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
 # Note:
 When we copy contents of one variable to other simply by assigning in python, we create an Alias, not a separate copy.
