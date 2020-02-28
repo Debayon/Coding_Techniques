@@ -118,3 +118,6 @@ https://leetcode.com/problems/divisor-game/
 
 # Day 27: 25/2/2020
 41. https://leetcode.com/problems/max-consecutive-ones/
+
+# Day 28: 28/2/2020
+42. https://leetcode.com/problems/valid-mountain-array/
