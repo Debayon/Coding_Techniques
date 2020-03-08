@@ -133,3 +133,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 30: 1/03/2020
 47. https://leetcode.com/problems/pascals-triangle/
+
+# Day 31: 9/03/2020
+48. https://leetcode.com/problems/verifying-an-alien-dictionary/
