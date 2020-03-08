@@ -136,3 +136,4 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 31: 9/03/2020
 48. https://leetcode.com/problems/verifying-an-alien-dictionary/
+49. https://www.hackerrank.com/challenges/find-digits/problem
