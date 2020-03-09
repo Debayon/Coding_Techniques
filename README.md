@@ -141,6 +141,8 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 32: 10/03/2020
 51. https://leetcode.com/problems/assign-cookies/
+53. https://www.hackerrank.com/challenges/luck-balance/problem
+54. https://www.hackerrank.com/challenges/permutation-equation/problem
 
 # Note: 
   1. In Python 3, False == 0 evaluates to True.
