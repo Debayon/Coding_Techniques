@@ -143,4 +143,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 51. https://leetcode.com/problems/assign-cookies/
 
 # Note: 
-  In Python 3, False == 0 evaluates to True.
+  1. In Python 3, False == 0 evaluates to True.
+  2. Sorting a List of List by specific index.
+      :- https://www.geeksforgeeks.org/python-sort-list-of-list-by-specified-index/
