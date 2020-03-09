@@ -138,3 +138,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 48. https://leetcode.com/problems/verifying-an-alien-dictionary/
 49. https://www.hackerrank.com/challenges/find-digits/problem
 50. https://www.hackerrank.com/challenges/cut-the-sticks/problem
+
+# Day 32: 10/03/2020
+51. https://leetcode.com/problems/assign-cookies/
