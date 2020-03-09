@@ -141,3 +141,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 32: 10/03/2020
 51. https://leetcode.com/problems/assign-cookies/
+
+# Note: 
+  In Python 3, False == 0 evaluates to True.
