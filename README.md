@@ -1,4 +1,4 @@
-# Coding_Techniques
+# Coding Interview Prep Problems
 Collection of tips and tricks for coding interview and competitive coding problems .
 
 # DAY 1: 1/8/2019
