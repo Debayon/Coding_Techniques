@@ -148,3 +148,6 @@ When we copy contents of one variable to other simply by assigning in python, we
   1. In Python 3, False == 0 evaluates to True.
   2. Sorting a List of List by specific index.
       :- https://www.geeksforgeeks.org/python-sort-list-of-list-by-specified-index/
+  3. sizeof() equivalent of C in Python:-
+      :- step 1: import sys
+         step 2: sys.getsizeof(object)
