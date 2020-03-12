@@ -155,3 +155,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 # Day 33: 11/03/2020
 55. https://leetcode.com/problems/validate-binary-search-tree/
 56. https://leetcode.com/problems/add-strings/
+
+# Day 34: 12/03/2020
+57. https://leetcode.com/problems/sort-the-matrix-diagonally/
