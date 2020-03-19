@@ -158,3 +158,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 34: 12/03/2020
 57. https://leetcode.com/problems/sort-the-matrix-diagonally/
+
+# Day 35: 19/03/2020
+58. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
