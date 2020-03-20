@@ -163,3 +163,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 58. https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 59. https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=false
 60. https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+
+# Day 36: 21/03/2020
+61. https://www.hackerrank.com/challenges/alphabet-rangoli/problem
