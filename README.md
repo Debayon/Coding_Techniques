@@ -166,3 +166,4 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 36: 21/03/2020
 61. https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+62. https://www.hackerrank.com/challenges/list-comprehensions/problem
