@@ -174,3 +174,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 38: 23/03/2020
 64. https://www.hackerrank.com/challenges/capitalize/problem
+
+# Day 39: 31/03/2020
+65. https://leetcode.com/problems/kth-smallest-element-in-a-bst/
