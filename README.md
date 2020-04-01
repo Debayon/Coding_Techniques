@@ -177,3 +177,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 39: 31/03/2020
 65. https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+# Day 40: 1/04/2020
+67. https://leetcode.com/problems/search-in-a-binary-search-tree/
