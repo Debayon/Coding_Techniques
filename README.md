@@ -182,3 +182,6 @@ When we copy contents of one variable to other simply by assigning in python, we
 67. https://leetcode.com/problems/search-in-a-binary-search-tree/
 
 # Participating in CodeChef 2020 April B
+
+# Day 41: 17/5/2020
+68. https://leetcode.com/problems/queens-that-can-attack-the-king/
