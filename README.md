@@ -189,3 +189,5 @@ When we copy contents of one variable to other simply by assigning in python, we
 # Day 42: 24/5/2020
 69. https://leetcode.com/problems/hand-of-straights/
 Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-Explained-Python-Solution
+
+70. https://leetcode.com/problems/average-of-levels-in-binary-tree/
