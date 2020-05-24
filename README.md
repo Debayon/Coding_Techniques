@@ -185,3 +185,7 @@ When we copy contents of one variable to other simply by assigning in python, we
 
 # Day 41: 17/5/2020
 68. https://leetcode.com/problems/queens-that-can-attack-the-king/
+
+# Day 42: 24/5/2020
+69. https://leetcode.com/problems/hand-of-straights/
+Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-Explained-Python-Solution
