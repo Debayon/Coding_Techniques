@@ -192,3 +192,6 @@ https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/
 Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-Explained-Python-Solution
 
 70. https://leetcode.com/problems/average-of-levels-in-binary-tree/
+
+# Day 43: 25/5/2020
+71. https://leetcode.com/problems/find-mode-in-binary-search-tree/
