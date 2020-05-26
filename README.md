@@ -198,3 +198,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 44: 26/5/2020
 72. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+73. https://leetcode.com/problems/binary-tree-paths/
