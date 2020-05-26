@@ -197,3 +197,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 71. https://leetcode.com/problems/find-mode-in-binary-search-tree/
 
 # Day 44: 26/5/2020
+72. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
