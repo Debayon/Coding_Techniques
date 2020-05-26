@@ -195,3 +195,5 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 43: 25/5/2020
 71. https://leetcode.com/problems/find-mode-in-binary-search-tree/
+
+# Day 44: 26/5/2020
