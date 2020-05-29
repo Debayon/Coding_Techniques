@@ -202,3 +202,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 45: 27/5/2020
 74. https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+
+# Day 46: 29/5/2020
+75. https://leetcode.com/problems/min-stack/
