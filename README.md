@@ -206,4 +206,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 # Day 46: 29/5/2020
 75. https://leetcode.com/problems/min-stack/
 76. https://leetcode.com/problems/monotonic-array/
-78. https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+77. https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
