@@ -212,3 +212,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 78. https://leetcode.com/problems/reshape-the-matrix/
 79. https://leetcode.com/problems/maximum-number-of-balloons/
 80. https://leetcode.com/problems/minimum-absolute-difference/
+
+# Day 48: 1/6/2020
+81. https://leetcode.com/problems/unique-number-of-occurrences/
