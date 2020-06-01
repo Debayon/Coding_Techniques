@@ -218,3 +218,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 82. https://leetcode.com/problems/degree-of-an-array/
 83. https://leetcode.com/problems/flood-fill/
 84. https://leetcode.com/problems/valid-anagram/
+85. https://leetcode.com/problems/third-maximum-number/
