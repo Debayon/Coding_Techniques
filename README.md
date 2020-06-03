@@ -225,4 +225,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 87. https://leetcode.com/problems/add-binary/   : __How to handle large number divisions__
 88. https://leetcode.com/problems/valid-parentheses/
 89. https://leetcode.com/problems/word-pattern/
+
+# Day 50: 3/6/2020
 90. https://leetcode.com/problems/longest-common-prefix/
