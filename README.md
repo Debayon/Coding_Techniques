@@ -231,3 +231,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 91. https://leetcode.com/problems/remove-linked-list-elements/
 - https://leetcode.com/problems/sum-of-even-numbers-after-queries/(earlier solved in python, now in Java)
 92. https://leetcode.com/problems/rectangle-overlap/
+
+# Day 51: 4/6/2020
+93. https://leetcode.com/problems/longest-palindrome/
