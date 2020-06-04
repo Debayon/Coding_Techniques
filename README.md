@@ -235,3 +235,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 # Day 51: 4/6/2020
 93. https://leetcode.com/problems/longest-palindrome/
 94. https://www.hackerrank.com/challenges/picking-numbers/problem
+95. https://leetcode.com/problems/number-of-lines-to-write-string/
