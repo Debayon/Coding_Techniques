@@ -242,3 +242,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 # Day 52: 8/6/2020
 98. https://leetcode.com/problems/subtree-of-another-tree/
 99. https://leetcode.com/problems/asteroid-collision/
+
+# Day 53: 10/10/2020
+100. https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
