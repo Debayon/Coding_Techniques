@@ -251,3 +251,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 102. https://www.hackerrank.com/challenges/append-and-delete/problem
 103. https://www.hackerrank.com/challenges/library-fine/problem
 104. https://www.hackerrank.com/challenges/repeated-string/problem
+105. https://www.hackerrank.com/challenges/equality-in-a-array/problem
