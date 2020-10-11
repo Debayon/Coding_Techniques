@@ -254,3 +254,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 105. https://www.hackerrank.com/challenges/equality-in-a-array/problem
 106. https://www.hackerrank.com/challenges/string-validators/problem
 107. https://www.hackerrank.com/challenges/text-alignment/problem
+108. https://www.hackerrank.com/challenges/python-string-formatting/problem
