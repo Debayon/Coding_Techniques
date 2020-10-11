@@ -250,3 +250,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 101. https://www.hackerrank.com/challenges/strange-advertising/problem
 102. https://www.hackerrank.com/challenges/append-and-delete/problem
 103. https://www.hackerrank.com/challenges/library-fine/problem
+104. https://www.hackerrank.com/challenges/repeated-string/problem
