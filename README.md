@@ -245,3 +245,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 53: 10/10/2020
 100. https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+
+# Day 54: 11/10/2020
+101. https://www.hackerrank.com/challenges/strange-advertising/problem
