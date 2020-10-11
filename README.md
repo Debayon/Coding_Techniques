@@ -255,3 +255,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 106. https://www.hackerrank.com/challenges/string-validators/problem
 107. https://www.hackerrank.com/challenges/text-alignment/problem
 108. https://www.hackerrank.com/challenges/python-string-formatting/problem
+109. https://www.hackerrank.com/challenges/merge-the-tools/problem
