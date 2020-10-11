@@ -252,3 +252,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 103. https://www.hackerrank.com/challenges/library-fine/problem
 104. https://www.hackerrank.com/challenges/repeated-string/problem
 105. https://www.hackerrank.com/challenges/equality-in-a-array/problem
+106. https://www.hackerrank.com/challenges/string-validators/problem
