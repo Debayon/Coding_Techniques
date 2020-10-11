@@ -249,3 +249,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 # Day 54: 11/10/2020
 101. https://www.hackerrank.com/challenges/strange-advertising/problem
 102. https://www.hackerrank.com/challenges/append-and-delete/problem
+103. https://www.hackerrank.com/challenges/library-fine/problem
