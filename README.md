@@ -259,3 +259,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 55: 26/10/2020
 110. https://leetcode.com/problems/add-two-numbers/
+111. https://leetcode.com/problems/longest-substring-without-repeating-characters/
