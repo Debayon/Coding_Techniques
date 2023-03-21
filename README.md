@@ -263,3 +263,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 56: 21/03/2023
 112. https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/919373474/
+113. https://leetcode.com/problems/length-of-last-word/
