@@ -266,4 +266,5 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 113. https://leetcode.com/problems/length-of-last-word/
 
 # Day 57: 28/03/2023
-114.https://leetcode.com/problems/valid-palindrome/description/
+114. https://leetcode.com/problems/valid-palindrome/description/
+115. https://leetcode.com/problems/single-number/description/
