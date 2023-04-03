@@ -276,3 +276,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 59: 03/04/2023
 119. https://leetcode.com/problems/happy-number/description/
+120. https://leetcode.com/problems/isomorphic-strings/description/
