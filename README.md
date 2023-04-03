@@ -273,3 +273,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 116. https://leetcode.com/problems/majority-element/description/
 117. https://leetcode.com/problems/excel-sheet-column-number/description/
 118. https://leetcode.com/problems/number-of-1-bits/description/
+
+# Day 59: 03/04/2023
+119. https://leetcode.com/problems/happy-number/description/
