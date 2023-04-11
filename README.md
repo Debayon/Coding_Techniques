@@ -280,3 +280,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 60: 09/04/2023
 121. https://leetcode.com/problems/contains-duplicate-ii/description/
+
+# Day 61: 11/04/2023
+122. https://leetcode.com/problems/first-unique-character-in-a-string/description/
