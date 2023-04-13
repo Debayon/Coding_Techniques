@@ -284,3 +284,6 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 # Day 61: 11/04/2023
 122. https://leetcode.com/problems/first-unique-character-in-a-string/description/
 123. https://leetcode.com/problems/power-of-two/description/
+
+# Day 62: 13/04/2023
+124. https://leetcode.com/problems/arranging-coins/description/
