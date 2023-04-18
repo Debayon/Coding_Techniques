@@ -291,3 +291,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 63: 18/04/2023
 126. https://leetcode.com/problems/longest-palindromic-substring/description/
+127. https://leetcode.com/problems/palindrome-number/description/
