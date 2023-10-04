@@ -304,3 +304,4 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 131. https://codeforces.com/problemset/problem/4/A
 132. https://codeforces.com/problemset/problem/71/A
 133. https://codeforces.com/problemset/problem/231/A
+134. https://codeforces.com/problemset/problem/96/A
