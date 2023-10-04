@@ -295,3 +295,11 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 
 # Day 64: 12/06/2023
 128. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+
+# Day 65: 03/10/2023
+129. https://codeforces.com/problemset/problem/1549/B
+
+# Day 66: 04/102023
+130. https://www.spoj.com/problems/TEST/
+131. https://codeforces.com/problemset/problem/4/A
+132. https://codeforces.com/problemset/problem/71/A
