@@ -299,9 +299,12 @@ Solution: https://leetcode.com/problems/hand-of-straights/discuss/354105/Fully-E
 # Day 65: 03/10/2023
 129. https://codeforces.com/problemset/problem/1549/B
 
-# Day 66: 04/102023
+# Day 66: 04/10/2023
 130. https://www.spoj.com/problems/TEST/
 131. https://codeforces.com/problemset/problem/4/A
 132. https://codeforces.com/problemset/problem/71/A
 133. https://codeforces.com/problemset/problem/231/A
 134. https://codeforces.com/problemset/problem/96/A
+
+# Day 67: 06/10/2023
+135. https://codeforces.com/problemset/problem/405/A
